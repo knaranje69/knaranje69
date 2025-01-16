@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @knaranje69
+- 👋 Hi, I’m Kshitij Naranje
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning GenAI  
 - 💞️ I’m looking to collaborate on Cloud Platforms
